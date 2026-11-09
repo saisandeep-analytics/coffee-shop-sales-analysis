@@ -1,6 +1,7 @@
                                      ☕ Blue Tokai Coffee Shop Sales Analysis | Power BI
 
 📌 Project Overview
+
 This project focuses on analysing coffee shop sales data using Microsoft Power BI to understand business performance, customer purchasing behaviour, product sales and store-level performance.
 
 ![Blue Tokai Coffee Shop Sales Dashboard](./screenshots/CoffeeSales%20.png)
