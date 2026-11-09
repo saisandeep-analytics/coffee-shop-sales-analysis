@@ -246,16 +246,7 @@ Review store performance: Investigate differences in order volume across locatio
 Monitor monthly performance: Continue tracking sales against previous-month results.
 These recommendations should be tested against future sales data to measure their actual impact.
 
-📷 Dashboard Screenshots
-Full Dashboard View
-<!-- Add your main Power BI dashboard screenshot below this heading -->
-Screenshot 1 – Overall Dashboard
 
-Additional Dashboard Views
-<!-- Add additional screenshots below when available -->
-Screenshot 2 – KPI Cards and Sales Performance
-
-Screenshot 3 – Product and Store Analysis
 
 📁 Project Files
 The repository is intended to contain the following project materials:
