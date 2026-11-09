@@ -3,6 +3,8 @@
 📌 Project Overview
 This project focuses on analysing coffee shop sales data using Microsoft Power BI to understand business performance, customer purchasing behaviour, product sales and store-level performance.
 
+![Blue Tokai Coffee Shop Sales Dashboard](./screenshots/CoffeeSales%20.png)
+
 The objective is to transform raw transaction data into an interactive dashboard that helps identify sales trends, top-performing products, store contributions and opportunities for business improvement.
 
 The analysis covers the period January 2023 to June 2023.
